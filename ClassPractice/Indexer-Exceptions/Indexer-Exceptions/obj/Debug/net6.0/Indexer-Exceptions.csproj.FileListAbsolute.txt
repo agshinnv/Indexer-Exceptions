@@ -1,0 +1,14 @@
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\Indexer-Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\Indexer-Exceptions.AssemblyInfoInputs.cache
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\Indexer-Exceptions.AssemblyInfo.cs
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\Indexer-Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\bin\Debug\net6.0\Indexer-Exceptions.exe
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\bin\Debug\net6.0\Indexer-Exceptions.deps.json
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\bin\Debug\net6.0\Indexer-Exceptions.runtimeconfig.json
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\bin\Debug\net6.0\Indexer-Exceptions.dll
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\bin\Debug\net6.0\Indexer-Exceptions.pdb
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\Indexer-Exceptions.dll
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\refint\Indexer-Exceptions.dll
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\Indexer-Exceptions.pdb
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\Indexer-Exceptions.genruntimeconfig.cache
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\ClassPractice\Indexer-Exceptions\Indexer-Exceptions\obj\Debug\net6.0\ref\Indexer-Exceptions.dll

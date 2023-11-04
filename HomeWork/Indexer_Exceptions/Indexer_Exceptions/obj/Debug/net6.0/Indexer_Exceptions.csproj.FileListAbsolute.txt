@@ -1,0 +1,14 @@
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\bin\Debug\net6.0\Indexer_Exceptions.exe
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\bin\Debug\net6.0\Indexer_Exceptions.deps.json
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\bin\Debug\net6.0\Indexer_Exceptions.runtimeconfig.json
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\bin\Debug\net6.0\Indexer_Exceptions.dll
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\bin\Debug\net6.0\Indexer_Exceptions.pdb
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\Indexer_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\Indexer_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\Indexer_Exceptions.AssemblyInfo.cs
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\Indexer_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\Indexer_Exceptions.dll
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\refint\Indexer_Exceptions.dll
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\Indexer_Exceptions.pdb
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\Indexer_Exceptions.genruntimeconfig.cache
+C:\Users\Agshin\Desktop\FullStackDeveloper\C#\Indexer-Exceptions\HomeWork\Indexer_Exceptions\Indexer_Exceptions\obj\Debug\net6.0\ref\Indexer_Exceptions.dll
